@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="20s" bgcolor="0.500000 0.500000 0.500000 1.000000">
+  <name>Title</name>
+  <layer type="SolidColor" active="true" version="0.1" desc="BG">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="color">
+      <color>
+        <r>0.000000</r>
+        <g>0.000000</g>
+        <b>0.000000</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+  </layer>
+  <layer type="text" active="true" version="0.2" desc="text">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="text">
+      <string>
+&#x6545;&#x4E8B;
+Love Gogonkt Grace Wiilovy Jollin Summer AM
+&#x9C7C;&#x6C60; &#x8001;&#x732B; &#x8001;&#x9646; &#x6B23; &#x72D0;&#x72F8; &#x7B49;
+&lt;&#x540D;&#x5B57;&#x9519;&#x8BEF;&#x6216;&#x8005;&#x6CA1;&#x6709;&#x52A0;&#x5165;&#x540D;&#x5B57;&#x7684;&#x670B;&#x53CB;&#x8BF7;&#x8054;&#x7EDC;&#x72D0;&#x72F8;&gt;
+
+&#x7F8E;&#x672F;&#x8BBE;&#x8BA1;
+Love
+
+&#x52A8;&#x753B;
+
+3D &#x5EFA;&#x6A21;
+
+3D &#x52A8;&#x753B;
+
+&#x7F16;&#x8F91;
+&#x72D0;&#x72F8;
+
+&#x97F3;&#x4E50;
+&lt;&lt;1812 Overture&gt;&gt; by Tchaikovsky
+&lt;&lt;Going down on it&gt;&gt; by Hot Action Cop
+&lt;&lt;Symphony No. 5&gt;&gt; by Beethoven
+
+
+&#x5236;&#x4F5C;</string>
+    </param>
+    <param name="color">
+      <color>
+        <r>1.000000</r>
+        <g>1.000000</g>
+        <b>1.000000</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+    <param name="family">
+      <string>&#x6587;&#x6CC9;&#x9A7F;&#x6B63;&#x9ED1;</string>
+    </param>
+    <param name="style">
+      <integer value="0"/>
+    </param>
+    <param name="weight">
+      <integer value="400"/>
+    </param>
+    <param name="compress">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="vcompress">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="size">
+      <vector>
+        <x>0.1666666716</x>
+        <y>0.1666666716</y>
+      </vector>
+    </param>
+    <param name="orient">
+      <vector>
+        <x>0.5000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="origin">
+      <composite type="vector">
+        <x>
+          <real value="0.0000000000"/>
+        </x>
+        <y>
+          <linear type="real">
+            <slope>
+              <real value="0.5000000000"/>
+            </slope>
+            <offset>
+              <real value="-2.3546511628"/>
+            </offset>
+          </linear>
+        </y>
+      </composite>
+    </param>
+    <param name="use_kerning">
+      <bool value="true"/>
+    </param>
+    <param name="grid_fit">
+      <bool value="false"/>
+    </param>
+    <param name="invert">
+      <bool value="false"/>
+    </param>
+  </layer>
+</canvas>
